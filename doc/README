@@ -1,0 +1,5 @@
+ZfCrud
+======
+
+The ZfCrud library consist of a few base classes to easily create new zend
+framework controllers with crud capabilities.
